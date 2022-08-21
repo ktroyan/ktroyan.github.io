@@ -3,11 +3,11 @@ author: "Klim Troyan"
 description: "A blog about Science, AI and more" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # name: Klim Troyan
-avatar: images/DALL-E_2022-08-21-22_16_48.png
+avatar: images/DALL-E_2022-08-21_22-12-39.png
 logo: images/DALL-E_2022-08-21_22-12-39.png # filename of a logo image that has been placed into your images directory
 
 # layout: post
-category: blog
+# category: blog
 
 
 # Email / Social media user names used by the minima theme:
