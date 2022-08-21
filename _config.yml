@@ -2,12 +2,12 @@ title: "Klim's blog"
 author: "Klim Troyan"
 description: "A blog about Science, AI and more" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-name: Ted Laderas
+name: Klim Troyan
 avatar: bio-photo.jpg
 logo: # filename of a logo image that has been placed into your images directory
 
 # layout: post
-excerpt: "What is interesting here"
+excerpt: "What's interesting here"
 # tags: [introduction, beginner, GitHub pages, test]
 comments: false
 # category: blog
