@@ -1,3 +1,12 @@
+---
+layout: post
+title: A general blog post
+excerpt: "What is interesting here"
+tags: [introduction, beginner, GitHub pages, test]
+comments: true
+category: blog
+---
+
 # Main title
 <!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
 Here is the content following the main title.
@@ -26,6 +35,10 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## Inserting an image
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+This is another image, but using HTML to handle placement and proportions.
+<img src="https://octodex.github.com/images/jetpacktocat.png"
+height="300">
 
 ### Inserting an image depending on the color scheme
 <picture>
@@ -154,7 +167,7 @@ You can also use words, to fit the writing style more closely[^note].
 ---
 ---
 
-
+## References
 
 
 
