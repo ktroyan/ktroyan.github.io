@@ -91,6 +91,8 @@ You can also use words, to fit the writing style more closely[^note].
 
 ## Referencing a previous section
 
+---
+<!-- 
 ## Using emojis
 :smiling_face_with_tear:
 :shushing_face:
@@ -140,15 +142,13 @@ You can also use words, to fit the writing style more closely[^note].
 :man_facepalming:
 :octocat:
 
----
----
+--- -->
 
 
 ## Quoting text
 > This is a quoted text
 > This too...
 
----
 ---
 ---
 
