@@ -1,12 +1,3 @@
----
-layout: post
-title: A general blog post
-excerpt: "What is interesting here"
-tags: [introduction, beginner, GitHub pages, test]
-comments: true
-category: blog
----
-
 # Main title
 <!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
 Here is the content following the main title.
