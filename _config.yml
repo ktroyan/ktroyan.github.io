@@ -6,10 +6,7 @@ description: "A blog about Science, AI and more" # This will show up in places l
 avatar: images/DALL-E_2022-08-21-22_16_48.png
 logo: images/DALL-E_2022-08-21_22-12-39.png # filename of a logo image that has been placed into your images directory
 
-layout: post
-# excerpt: "What's interesting here"
-# tags: [introduction, beginner, GitHub pages, test]
-# comments: false
+# layout: post
 category: blog
 
 
@@ -22,6 +19,8 @@ linkedin_username: "klim-troyan"
 #facebook_username: username
 #instagram_username: username
 #youtube_username: username
+
+#rss: rss
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
