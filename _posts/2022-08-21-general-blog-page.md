@@ -1,9 +1,6 @@
----
-layout: post
-excerpt: "What's interesting here"
-tags: [introduction, GitHub pages, test]
-category: blog
----
+# General blog post
+<!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
+Here is the content following the main title.
 
 <!-- dark theme using DarkReader -->
 <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
@@ -12,11 +9,6 @@ category: blog
   //DarkReader.enable();
   DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
 </script>
-
-# General blog post
-<!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
-Here is the content following the main title.
-
 
 ## Section
 Here is the content of a section.
