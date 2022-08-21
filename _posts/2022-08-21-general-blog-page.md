@@ -49,11 +49,14 @@ height="250">
 ## Writing some LaTeX
 $$
 x = \frac{a-b}{c+d}
+$$
+
+$$
 y = \frac{a+b}{c-d}
 $$
 
 $$
-y^x = ...
+y^x = ?
 $$
 
 
