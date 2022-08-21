@@ -13,7 +13,6 @@ Here is the content following the main title.
 layout: post
 excerpt: "What's interesting here"
 tags: [introduction, GitHub pages, test]
-# comments: false
 category: blog
 date: 2022-08-21 -0800
 
