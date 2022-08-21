@@ -2,6 +2,15 @@
 <!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
 Here is the content following the main title.
 
+---
+<!-- layout: post -->
+<!-- title: Awesome Blog Post -->
+<!-- excerpt: "Why you should read my website" -->
+<!-- tags: [intro, beginner, jekyll, tutorial] -->
+<!-- comments: true -->
+category: blog
+---
+
 
 ## Section
 Here is the content of a section.
@@ -31,14 +40,12 @@ This is another image, but using HTML to eventually handle placement and proport
 <img src="https://octodex.github.com/images/jetpacktocat.png"
 height="250">
 
-### Inserting an image depending on the color scheme
+<!-- ### Inserting an image depending on the color scheme
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
-          height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
-          height="50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 
 
 
