@@ -32,3 +32,12 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+#### Some Python Code
+
+```python
+n = 100
+W = np.zeros(n)
+```
+
+
