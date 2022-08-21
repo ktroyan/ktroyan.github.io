@@ -25,16 +25,18 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 ## Inserting an image
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image description](https://myoctocat.com/assets/images/base-octocat.svg)
 
-This is another image, but using HTML to handle placement and proportions.
+This is another image, but using HTML to eventually handle placement and proportions.
 <img src="https://octodex.github.com/images/jetpacktocat.png"
-height="300">
+height="250">
 
 ### Inserting an image depending on the color scheme
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+          height="300">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
+          height="300">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
