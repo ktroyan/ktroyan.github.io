@@ -46,6 +46,16 @@ height="250">
 </picture> -->
 
 
+## Writing some LaTeX
+$$
+x = \frac{a-b}{c+d}
+y = \frac{a+b}{c-d}
+$$
+
+$$
+y^x = ...
+$$
+
 
 ## Writing some Python code
 ```python
