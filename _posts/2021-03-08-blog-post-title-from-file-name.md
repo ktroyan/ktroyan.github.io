@@ -68,7 +68,7 @@ W = np.zeros(n)
 
 ### Task lists
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Watch the video: [Karpathy explains NNs and Backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0&t=85s)
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Footnotes
@@ -90,6 +90,8 @@ You can also use words, to fit the writing style more closely[^note].
 
 
 ## Referencing a previous section
+[This is a link to a section of this personal blog. In this case, to the top.](https://github.com/ktroyan/ktroyan.github.io/blob/main/_posts/2021-03-08-blog-post-title-from-file-name.md#main-title)
+
 
 ---
 <!-- 
@@ -146,7 +148,7 @@ You can also use words, to fit the writing style more closely[^note].
 
 
 ## Quoting text
-> This is a quoted text
+> This is a quoted text.
 > This too...
 
 ---
