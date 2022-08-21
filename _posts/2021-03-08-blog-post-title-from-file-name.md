@@ -2,16 +2,6 @@
 <!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
 Here is the content following the main title.
 
----
-<!-- layout: post -->
-<!-- title: Awesome Blog Post -->
-<!-- excerpt: "Why you should read my website" -->
-<!-- tags: [intro, beginner, jekyll, tutorial] -->
-<!-- comments: true -->
-category: blog
----
-
-
 ## Section
 Here is the content of a section.
 
