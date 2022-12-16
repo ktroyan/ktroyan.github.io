@@ -6,8 +6,8 @@ description: "Let's think about Science, AI, and..." # This will show up in plac
 avatar: images/DALL-E_2022-08-21_22-12-39.png
 logo: images/DALL-E_2022-08-21_22-12-39.png # filename of a logo image that has been placed into your images directory
 
-# layout: post
-# category: blog
+layout: post
+category: blog
 
 
 # Email / Social media user names used by the minima theme:
