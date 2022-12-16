@@ -28,7 +28,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 ## Sharing a link relative to the repository
-[This is a relative link to the index.md file in this repository](/index.md)
+[This is a relative link to a file store in this repository](/images/DALL-E_2022-08-21_22-12-39.png)
 
 
 ## Inserting an image
