@@ -33,9 +33,7 @@ kramdown:
     
 plugins:
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-seo-tag
+  - jekyll-feed
 
 titles_from_headings:
   strip_title: true
