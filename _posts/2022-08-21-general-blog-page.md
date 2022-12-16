@@ -1,4 +1,4 @@
-# General blog post
+# General blog post test
 <!-- Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title. -->
 Here is the content following the main title.
 
@@ -51,19 +51,13 @@ $$
 x = \frac{a-b}{c+d}
 $$
 
-$$
-y = \frac{a+b}{c-d}
-$$
-
-$$
-y^x = ?
-$$
-
 
 ## Writing some Python code
 ```python
 n = 100
-W = np.zeros(n)
+W = np.zeros(n, n)
+b = np.ones(n)
+X = W*b
 ```
 
 
