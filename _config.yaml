@@ -1,0 +1,8 @@
+title: My Simple Website
+description: A clean, modern site.
+markdown: kramdown
+permalink: pretty
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
